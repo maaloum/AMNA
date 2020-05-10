@@ -1,0 +1,14 @@
+.sidebar .widget-1 { margin-top: 200px; margin-bottom:200px;}
+.sidebar .widget-2 { padding-top: 200px; }
+#etab{
+  font-family: sans-serif;
+  float: right;
+  color: #108d6f;
+
+}
+#tab{
+  float: center;
+  width: 100%;
+  height: 300px;
+
+}
